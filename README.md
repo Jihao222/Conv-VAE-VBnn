@@ -10,7 +10,7 @@ Paper is available on https://doi.org/10.1016/j.energy.2020.119572
 </div>
 </a>.
 
-### Representative results
+### Results
 <div align="center">
 	<img src="img/Results.png" width="80%" height="10%">
 </div>
