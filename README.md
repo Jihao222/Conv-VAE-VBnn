@@ -2,7 +2,9 @@ Conv-VAE-VBnn
 =============
 Paper is available on https://doi.org/10.1016/j.energy.2020.119572
 ### Intorduction
-**Conv-VAE-VBnn** is a hybird deep-learning approach for rapidly modeling gas dispersion, which is essentially a probabilistic Convolutional-Variational Autoencoder-Variational Bayesian neural network. By this approach, one can realize model the released gas spatial concentration and achieve the uncertainty of this predicted spatial concentration, which can replace the  Computational Fluid Dynamic (CFD) to support real-time emergency response planning. 
+**Conv-VAE-VBnn** is a hybird deep-learning approach for rapidly modeling natural gas release and dispersion, which is essentially a probabilistic Convolutional-Variational Autoencoder-Variational Bayesian neural network. This approach not only can predicted the released gas concentration spatial distribution but also provide the quantitative uncertainty for this predicted distribution. This research could provide a reliable alternative for constructing a digital twin for emergency management during the exploration and exploitation of marine natural gas hydrate (NHG) in the near future.
+
+
 
 ### Architecture
 <div align="center">
